@@ -1,7 +1,17 @@
-# README TEST FILE
-## HyperionDev Build Your Brand Building a Technical Portfolio
-### Part 2: Practical Task 2
+# Welcome to Ahmad Arefin's GitHub Profile! 👋
+## Software Engineering Student
+### About Me
 
-This file should demonstrate that ahmadarefin can create a *README.md file* for a repository on GitHub. README.md files usually communicate important information about the project. This file has been committed to the **ahmadarefin repository**.
+I'm a passionate and diligent software engineering student with a strong foundation in Python, with an interest in problem-solving and new technologies. I am currently studying Software Engineering at HyperionDev and looking to expand my knowledge and gain proficiency in programming throughout the bootcamp and beyond. I am excited by the opportunity to build on my current skills and I am always open to improving learning new things.
 
-![GitHub Logo](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+### Technical Skills
+- Software Development in Python
+- Web Development in JavaScript
+- Object-Oriented Programming
+- User Defined Functions
+- Iteration and Loops
+- Version Control
+- Debugging
+
+### Social Links
+Feel free to send me a connection invite on [Linkedin](https://www.linkedin.com/in/ahmadarefin/)!
